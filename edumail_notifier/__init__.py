@@ -1,1 +1,1 @@
-"""Init file for __main__ file of EduMail Notifier"""
+"""Init file for app file of EduMail Notifier"""
