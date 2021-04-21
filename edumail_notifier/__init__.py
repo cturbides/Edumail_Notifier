@@ -1,0 +1,1 @@
+"""Init file for __main__ file of EduMail Notifier"""
